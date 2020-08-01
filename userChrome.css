@@ -1,0 +1,5 @@
+@-moz-document url("about:newtab"), url("about:home"), url("about:blank")    {
+.logo {
+background: url("icons/firefox-blue-globe.png") no-repeat center;
+}
+}
